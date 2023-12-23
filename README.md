@@ -15,7 +15,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Program:
 ```python
-```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by:Suriya prakash.S 
